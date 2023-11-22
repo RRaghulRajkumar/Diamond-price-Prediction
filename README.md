@@ -27,7 +27,10 @@ The dataset used for this project is sourced from [dataset source]. It includes 
 
 We utilized a machine learning model, specifically [insert model type], to predict diamond prices. The model was trained on a labeled dataset, and its performance was evaluated based on metrics such as Mean Absolute Error (MAE) and R-squared.
 
+## Sample Images
+![alt text](http://url/to/img.png)
 
+![alt text](http://url/to/img.png)
 
 ## Introduction About the Data 📊
 
