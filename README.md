@@ -11,7 +11,7 @@ This project aims to predict the price of diamonds based on various features suc
 
 ## Demo Video
 
-![Demo](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/Diamond-price-demo.mp4?raw=true "Demo")
+![Demo](https://www.youtube.com/watch?v=XVbkq3ucc0E)
 
 ## Table of Contents
 
@@ -111,4 +111,7 @@ ElasticNet combines both L1 and L2 regularization, providing a balance between f
 **MAE:** 1060.94
 **R2_SQUARE:** 85.45%
 
+## Deployment(Azure)
+project link 👉🏻
+https://diamondpricepredictionproject.azurewebsites.net/
 
