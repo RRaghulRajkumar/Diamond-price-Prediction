@@ -5,9 +5,13 @@
 This project aims to predict the price of diamonds based on various features such as carat weight, cut, color, clarity, and depth percentage. Leveraging machine learning techniques, we have developed a model that can provide accurate predictions, allowing users to estimate diamond prices with confidence.
 
 ## Sample Images
-![alt text](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/image1.png)
+![Image](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/image1.png)
 
-![alt text](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/image2.png)
+![Image](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/image2.png)
+
+## Demo Video
+
+![Demo](https://github.com/RRaghulRajkumar/Diamond-price-Prediction/blob/main/demo/Diamond-price-demo.mp4?raw=true "Demo")
 
 ## Table of Contents
 
